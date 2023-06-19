@@ -4,7 +4,7 @@
 
 **Projetos bacanas de relógio usando o Raspberry Pi Pico W**
 
-./PicoWClocks.jpg
+![Clock Components](./PicoWClocks.jpg)
 
 The softwares are written in MicroPython. To use them you have to create in the Pico W a secrets.py file.
 
